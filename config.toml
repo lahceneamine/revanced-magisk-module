@@ -11,7 +11,7 @@ patches-source = "inotia00/revanced-patches"
 integrations-source = "inotia00/revanced-integrations"
 rv-brand = "inotia00 ReVanced"
 build-mode = "module"
-included-patches = "'Enable slide to seek'"
+included-patches = "'Custom branding''Enable slide to seek'"
 excluded-patches = "'Enable debugging' 'Client spoof' 'GmsCore support' 'Theme'"
 
 [Music]
